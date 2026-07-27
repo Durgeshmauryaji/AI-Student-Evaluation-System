@@ -89,7 +89,7 @@ function AssignmentSubmission() {
         "Assignment Submitted Successfully"
       );
 
-
+navigate("/student-dashboard");
     } catch (error) {
 
 
